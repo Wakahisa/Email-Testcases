@@ -10,3 +10,5 @@ Program:
 Checks whether emails and passwords are valid using regex.
 
 Program created to demonstrate and learn about testcases.
+
+The relevant .java files are located in the directories: src and test.
